@@ -1,5 +1,7 @@
 pandas
 numpy
-XlsxWriter
+xlsxwriter
 streamlit
 openpyxl
+fpdf
+streamlit-aggridl
