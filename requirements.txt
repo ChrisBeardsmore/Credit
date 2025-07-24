@@ -4,4 +4,4 @@ xlsxwriter
 streamlit
 openpyxl
 fpdf
-streamlit-aggridl
+
