@@ -197,3 +197,6 @@ if st.button("Run Decision Engine"):
 
     pdf_file = export_pdf(result_data, decision, approver, reasons)
     st.download_button("Download PDF Report", pdf_file, "Credit_Decision_Report.pdf", "application/pdf")
+
+
+      
