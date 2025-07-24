@@ -18,7 +18,8 @@ st.markdown("""
             background-color: white;
             color: rgb(15,42,52);
         }
-        label, .stMarkdown, .css-1cpxqw2, .stRadio > div {
+        label, .stMarkdown, .css-1cpxqw2,
+        .stRadio > div, div[data-baseweb="radio"] {
             color: rgb(15,42,52) !important;
         }
         div.stButton > button, div.stDownloadButton > button {
